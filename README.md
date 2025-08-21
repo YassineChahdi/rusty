@@ -1,4 +1,4 @@
-# Rusty — Car Rust Classifier
+# Rusty - Car Rust Classifier
 
 Binary rust detector (Fine-Tuned PyTorch ResNet‑18). Given a car photo, returns `("rust" | "clean", probability)`.
 
